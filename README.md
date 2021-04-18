@@ -1,2 +1,2 @@
 # code
-some c code.
+some code.
